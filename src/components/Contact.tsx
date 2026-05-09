@@ -48,7 +48,7 @@ export default function Contact() {
 
           {/* Instagram */}
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/theo_zhou_junior_golfer/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 bg-[#f8f7f4] hover:bg-[#1a3a2a] hover:text-white group rounded-xl px-7 py-5 transition-all duration-200 border border-gray-100"
