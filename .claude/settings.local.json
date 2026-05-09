@@ -8,7 +8,12 @@
       "Read(//Users/theozhou/.nvm/**)",
       "Read(//Users/theozhou/.nodenv/**)",
       "Bash(/usr/local/bin/node --version)",
-      "Bash(export PATH=\"/opt/homebrew/bin:/usr/local/bin:/usr/bin:$PATH\")"
+      "Bash(export PATH=\"/opt/homebrew/bin:/usr/local/bin:/usr/bin:$PATH\")",
+      "Bash(npm install *)",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "Read(//tmp/**)",
+      "mcp__Claude_Preview__preview_start"
     ]
   }
 }
